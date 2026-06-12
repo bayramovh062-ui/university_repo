@@ -239,3 +239,16 @@ How to fix: Follow standard commit conventions. Use descriptive, imperative mess
 Mistake: Forgetting to exclude heavy folders or secret API keys, exposing them to the public repository.
 
 How to fix: Create a .gitignore file at the root of your project and list all files and folders that Git should ignore before making your first commit.
+## What We Built
+
+### Project Files:
+- **README.md**: The main documentation file providing an overview of the project and its structure.
+- **TASKS.md**: Contains the full list of project tasks and assignments for the team.
+- **guides/GLOSSARY.md**: A comprehensive glossary defining at least 10 key Git and GitHub terms.
+- **guides/CONTRIBUTING.md**: Guidelines and rules on how to contribute to this repository.
+- **guides/CONVENTIONS.md**: Document outlining the project's coding and branch naming conventions.
+
+### Contributors:
+- **Huseyn (Person A)** - [@bayramovh062](https://github.com/bayramovh062)
+- **Aydan (Person B)** - [@Aydaan](https://github.com/Aydaan)
+- **Rahima (Person C)** - [@sadiqovarahima](https://github.com/sadiqovarahima)
